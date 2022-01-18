@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomersAndaluciaNuGet", "CustomersAndaluciaNuGet\CustomersAndaluciaNuGet.csproj", "{18F90DD3-1871-4224-94C5-FC04F9BE1CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18F90DD3-1871-4224-94C5-FC04F9BE1CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F90DD3-1871-4224-94C5-FC04F9BE1CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F90DD3-1871-4224-94C5-FC04F9BE1CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F90DD3-1871-4224-94C5-FC04F9BE1CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FED0029A-5A13-4226-83BA-A5C2A4A3F1D3}
+	EndGlobalSection
+EndGlobal
